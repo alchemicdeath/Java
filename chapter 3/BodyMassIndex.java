@@ -12,7 +12,7 @@ public class BodyMassIndex
         System.out.print("What is your Weight? ");
         weight = input.nextInt();
         
-        System.out.print("What is your Height? ");
+        System.out.print("What is your Height in inches? ");
         height = input.nextDouble();
         
         double height2 = height*height;
