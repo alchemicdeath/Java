@@ -1,3 +1,8 @@
+
+/**
+@author JPD AlchemicDeath
+*/
+
 public class LandCalculation
 {
     public static void main(String[] args)
