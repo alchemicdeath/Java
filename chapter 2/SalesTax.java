@@ -1,5 +1,9 @@
 import java.util.Scanner;//needed for scanner input//
 
+/**
+@author JPD AlchemicDeath
+*/
+
 public class SalesTax
 {
     public static void main(String[] args)
