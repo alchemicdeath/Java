@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+@author JPD AlchemicDeath
+*/
+
 public class StringManipulator
 {
     public static void main(String[] args)
