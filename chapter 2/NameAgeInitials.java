@@ -1,3 +1,8 @@
+
+/**
+@author JPD AlchemicDeath
+*/
+
 public class NameAgeInitials
 {
     public static void main(String [] args)
