@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+@author JPD AlchemicDeath
+*/
+
+
 public class CookieCalorie
 {
 	public static void main(String[] args)
