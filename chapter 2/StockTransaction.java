@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+@author JPD AlchemicDeath
+*/
+
 public class StockTransaction
 {
     public static void main(String[] args)
