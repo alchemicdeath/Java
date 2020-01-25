@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+@author JPD AlchemicDeath
+*/
+
 public class RestaurantBill
 {
     public static void main(String[] args)
